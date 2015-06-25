@@ -4,7 +4,6 @@
 deb http://4khmeriphone.com/sp/ ./
 deb http://Wynd07.appspot.com/r7/ ./
 deb http://andrew-abosh.com/repo/ ./
-deb http://apt.clezz.com ./
 deb http://apt.dba-technologies.com/beta/ ./
 deb http://apt.if0rce.com/ ./
 deb http://apt.pwncenter.com/ ./
@@ -12,7 +11,6 @@ deb http://apt.s1ris.com/ ./
 deb http://apt.sapien.me/ ./
 deb http://apt.steverolfe.com/ ./
 deb http://arcetera.github.com/ ./
-deb http://ath.ink/ ./
 deb http://beta-repo.sassoty.com/ ./
 deb http://betarepo.com/fontme/ ./
 deb http://betarepo.groovycarrot.co.uk ./
@@ -91,6 +89,7 @@ deb http://kuaidial.googlecode.com/svn/deb/ ./
 deb http://limneos.net/repo/ ./
 deb http://maple.pe.hu/ ./
 deb http://mcpe.s1ris.com/ ./
+deb http://miroppb.com/repo/ ./
 deb http://mirrors.kodi.tv/apt/ios/ ./
 deb http://mirrors.xbmc.org/apt/ios/ ./
 deb http://moshed.yourepo.com/ ./
@@ -114,6 +113,7 @@ deb http://repo.maxkatzmann.us/ ./
 deb http://repo.natur-kultur.eu ./
 deb http://repo.nesolabs.de/ ./
 deb http://repo.pnre.co/ ./
+deb http://repo.spydar007.com/ ./
 deb http://repo.thireus.com/ ./
 deb http://repo.tm3dev.com/ ./
 deb http://repo.tylercasson.com/ ./
@@ -131,4 +131,3 @@ deb http://typ0s2d10.appspot.com/repo/ ./
 deb http://weamdev.org/repo/ ./
 deb http://www.tateu.net/repo/ ./
 deb http://yangapp.googlecode.com/svn/ ./
-deb https://justgetflux.com/cydia/ ./

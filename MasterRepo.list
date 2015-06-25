@@ -7,7 +7,6 @@ deb http://andrew-abosh.com/repo/ ./
 deb http://apt.dba-technologies.com/beta/ ./
 deb http://apt.if0rce.com/ ./
 deb http://apt.pwncenter.com/ ./
-deb http://apt.s1ris.com/ ./
 deb http://apt.sapien.me/ ./
 deb http://apt.steverolfe.com/ ./
 deb http://arcetera.github.com/ ./
@@ -88,7 +87,6 @@ deb http://justgetflux.com/cydia/ ./
 deb http://kuaidial.googlecode.com/svn/deb/ ./
 deb http://limneos.net/repo/ ./
 deb http://maple.pe.hu/ ./
-deb http://mcpe.s1ris.com/ ./
 deb http://miroppb.com/repo/ ./
 deb http://mirrors.kodi.tv/apt/ios/ ./
 deb http://mirrors.xbmc.org/apt/ios/ ./
@@ -122,6 +120,7 @@ deb http://repo.winneonsword.net ./
 deb http://repo.yllier.net/ ./
 deb http://repocydia.com/ ./
 deb http://rpetri.ch/repo/ ./
+deb http://s1ris.github.io/repo/ ./
 deb http://system.in-appstore.com/repo/ ./
 deb http://tateu.net/repo/ ./
 deb http://test-cydia.bitesms.com/ ./

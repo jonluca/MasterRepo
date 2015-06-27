@@ -128,5 +128,4 @@ deb http://thirdeyeruler.com/repo/ ./
 deb http://tigisoftware.com/cydia/ ./
 deb http://typ0s2d10.appspot.com/repo/ ./
 deb http://weamdev.org/repo/ ./
-deb http://www.tateu.net/repo/ ./
 deb http://yangapp.googlecode.com/svn/ ./

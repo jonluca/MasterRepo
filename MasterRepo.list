@@ -61,7 +61,6 @@ deb http://cydia.myrepospace.com/seatanners/ ./
 deb http://cydia.myrepospace.com/shivadoc/ ./
 deb http://cydia.myrepospace.com/spydar007/ ./
 deb http://cydia.myrepospace.com/tigerban/ ./
-deb http://cydia.myrepospace.com/zarave/ ./
 deb http://cydia.qusic.me/ ./
 deb http://cydia.r333d.com/ ./
 deb http://cydia.rob311.com/repo/ ./

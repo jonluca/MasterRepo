@@ -9,7 +9,7 @@ deb http://apt.if0rce.com/ ./
 deb http://apt.pwncenter.com/ ./
 deb http://apt.sapien.me/ ./
 deb http://apt.steverolfe.com/ ./
-deb http://arcetera.github.com/ ./
+deb http://arcetera.github.io/ ./
 deb http://beta-repo.sassoty.com/ ./
 deb http://betarepo.com/fontme/ ./
 deb http://betarepo.groovycarrot.co.uk ./

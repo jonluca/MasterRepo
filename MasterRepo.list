@@ -1,5 +1,5 @@
-#by /u/JonLuca on Reddit - 6/23/15 - 23:05
-#Some of these may be inactive or dead - if so, feel free to message me on reddit and I'll rectify it.
+# /u/JonLuca on Reddit - 6/23/15 - 23:05
+# Some of these may be inactive or dead - if so, feel free to message me on reddit and I'll rectify it.
 
 deb http://4khmeriphone.com/sp/ ./
 deb http://Wynd07.appspot.com/r7/ ./
@@ -9,21 +9,22 @@ deb http://apt.if0rce.com/ ./
 deb http://apt.pwncenter.com/ ./
 deb http://apt.sapien.me/ ./
 deb http://apt.steverolfe.com/ ./
-deb http://arcetera.github.com/ ./
+deb https://arcetera.github.io/ ./
 deb http://beta-repo.sassoty.com/ ./
 deb http://betarepo.com/fontme/ ./
 deb http://betarepo.groovycarrot.co.uk ./
 deb http://chewitt.me/repo/ ./
-deb http://chickenmatt5.github.io/repo/ ./
+deb https://chickenmatt5.github.io/repo/ ./
+deb https://citrusui.me/repo/ ./
 deb http://cokepokes.myrepospace.com/ ./
-deb http://coolstar.org/publicrepo/ ./
+deb https://coolstar.org/publicrepo/ ./
 deb http://cydia.angelxwind.net/ ./
 deb http://cydia.clezz.com/  ./
 deb http://cydia.dtathemes.com/repo/ ./
 deb http://cydia.evilpengu.in/  ./
 deb http://cydia.expetelek.com/ ./
 deb http://cydia.grimore.org/ ./
-deb http://cydia.hbang.ws/ ./
+deb https://cydia.hbang.ws/ ./
 deb http://cydia.hiraku.tw/ ./
 deb http://cydia.ianburns.co/ ./
 deb http://cydia.ichitaso.com/ ./
@@ -76,7 +77,7 @@ deb http://filippobiga.com/repo/ ./
 deb http://ftp.sident.net/cydia-beta/ ./
 deb http://getdelta.co/ ./
 deb http://gmoran.me/repo/ ./
-deb http://greenydev.github.io/repo/ ./
+deb https://greenydev.github.io/repo/ ./
 deb http://hitoriblog.com/apt/ ./
 deb http://iPHONiX.myrepospace.com/ ./
 deb http://insanj.com/repo/ ./
@@ -119,7 +120,7 @@ deb http://repo.winneonsword.net ./
 deb http://repo.yllier.net/ ./
 deb http://repocydia.com/ ./
 deb http://rpetri.ch/repo/ ./
-deb http://s1ris.github.io/repo/ ./
+deb https://s1ris.github.io/repo/ ./
 deb http://system.in-appstore.com/repo/ ./
 deb http://tateu.net/repo/ ./
 deb http://test-cydia.bitesms.com/ ./

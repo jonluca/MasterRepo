@@ -68,6 +68,7 @@ deb http://hitoriblog.com/apt/ ./
 deb http://insanj.com/repo/ ./
 deb http://ios-webstack.tk/cydia/ ./
 deb http://iPHONiX.myrepospace.com/ ./
+deb http://jonlu.ca/repo/ ./
 deb http://j-gessner.de/repo/ ./
 deb http://justgetflux.com/cydia/ ./
 deb http://kuaidial.googlecode.com/svn/deb/ ./

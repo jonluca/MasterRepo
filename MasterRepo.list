@@ -116,6 +116,7 @@ deb https://coolstar.org/publicrepo/ ./
 deb https://cydia.hbang.ws/ ./
 deb https://greenydev.github.io/repo/ ./
 deb https://s1ris.github.io/repo/ ./
+deb https://cydia.syrexide.com/ ./
 
 #Sources that have been commented out (#) are offline but might come 
 #back one day - they mightve been popular a few years ago or had 

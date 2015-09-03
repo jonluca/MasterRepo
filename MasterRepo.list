@@ -10,6 +10,7 @@ deb http://apt.steverolfe.com/ ./
 deb http://beta-repo.sassoty.com/ ./
 deb http://betarepo.com/fontme/ ./
 deb http://betarepo.groovycarrot.co.uk ./
+deb http://beta.unlimapps.com/ ./
 deb http://chewitt.me/repo/ ./
 deb http://cokepokes.myrepospace.com/ ./
 deb http://cydia.angelxwind.net/ ./
@@ -26,7 +27,6 @@ deb http://cydia.jerryen.com/ ./
 deb http://cydia.joedj.net/ ./
 deb http://cydia.myrepospace.com/andrewwiik/ ./
 deb http://cydia.myrepospace.com/Basic/ ./
-deb http://cydia.myrepospace.com/beta/sf/ ./
 deb http://cydia.myrepospace.com/blubbll/ ./
 deb http://cydia.myrepospace.com/cokepokes/ ./
 deb http://cydia.myrepospace.com/d4rkh0rse/  ./
@@ -56,7 +56,6 @@ deb http://cydia.r333d.com/ ./
 deb http://cydia.rob311.com/repo/ ./
 deb http://danieltaylor.tk/repo/  ./
 deb http://danyl.net/repo/ ./
-deb http://dbk1ng.myrepospace.com/ ./
 deb http://elijahandandrew.com/repo/ ./
 deb http://exile90software.com/cydia/ ./
 deb http://exile90software.com/cydia/beta/ ./
@@ -77,6 +76,7 @@ deb http://miroppb.com/repo/ ./
 deb http://mirrors.kodi.tv/apt/ios/ ./
 deb http://mirrors.xbmc.org/apt/ios/ ./
 deb http://moshed.yourepo.com/ ./
+deb http://extigy.github.io/repo/ ./
 deb http://n00neimp0rtant.com/repo/ ./
 deb http://nix.howett.net/theos/ ./
 deb http://noeliel.com/repo/ ./
@@ -104,7 +104,6 @@ deb http://rpetri.ch/repo/ ./
 deb http://system.in-appstore.com/repo/ ./
 deb http://tateu.net/repo/ ./
 deb http://test-cydia.bitesms.com/ ./
-deb http://thirdeyeruler.com/repo/ ./
 deb http://tigisoftware.com/cydia/ ./
 deb http://typ0s2d10.appspot.com/repo/ ./
 deb http://Wynd07.appspot.com/r7/ ./

@@ -5,6 +5,7 @@
 deb http://4khmeriphone.com/sp/ ./
 deb http://apt.dba-technologies.com/beta/ ./
 deb http://apt.if0rce.com/ ./
+deb http://apt.mootjeuh.com/ ./
 deb http://apt.pwncenter.com/ ./
 deb http://apt.steverolfe.com/ ./
 deb http://beta-repo.sassoty.com/ ./
@@ -47,7 +48,6 @@ deb http://cydia.myrepospace.com/mlnlover11/ ./
 deb http://cydia.myrepospace.com/reeiiko/ ./
 deb http://cydia.myrepospace.com/rj619/ ./
 deb http://cydia.myrepospace.com/ruberto/ ./
-deb http://cydia.myrepospace.com/seatanners/ ./
 deb http://cydia.myrepospace.com/shivadoc/ ./
 deb http://cydia.myrepospace.com/tigerban/ ./
 deb http://cydia.qusic.me/ ./
@@ -119,6 +119,13 @@ deb https://cydia.hbang.ws/ ./
 deb https://cydia.syrexide.com/ ./
 deb https://greenydev.github.io/repo/ ./
 deb https://s1ris.github.io/repo/ ./
+deb http://cydia.taskinoz.com/ ./
+deb http://repo.peng-u-in.de/ ./
+deb http://repo.rpdev.info/ ./
+deb https://s0mecoder.github.io/repo/ ./
+deb http://seatanners.github.io/repo/ ./
+deb https://repo.tm3dev.com/ ./
+deb https://yazeedot.github.io/ ./
 
 #Sources that have been commented out (#) are offline but might come 
 #back one day - they mightve been popular a few years ago or had 

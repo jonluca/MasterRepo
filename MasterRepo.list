@@ -31,7 +31,6 @@ deb http://cydia.myrepospace.com/ImLemonPartying/ ./
 deb http://cydia.myrepospace.com/MattCMultimedia/ ./
 deb http://cydia.myrepospace.com/SkumarSpace/ ./
 deb http://cydia.myrepospace.com/Skylerk99/ ./
-deb http://cydia.myrepospace.com/andrewwiik/ ./
 deb http://cydia.myrepospace.com/blubbll/ ./
 deb http://cydia.myrepospace.com/cokepokes/ ./
 deb http://cydia.myrepospace.com/d4rkh0rse/  ./
@@ -87,6 +86,7 @@ deb http://redzrex.github.io/ ./
 deb http://repo.aethericdevteam.org ./
 deb http://repo.aleksanderazizi.com/ ./
 deb http://repo.alexzielenski.com/ ./
+deb http://repo.atwiiks.com/ ./
 deb http://repo.bd452.com/ ./
 deb http://repo.cpdigitaldarkroom.com/ ./
 deb http://repo.cydro.us/ ./

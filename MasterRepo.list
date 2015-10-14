@@ -13,7 +13,7 @@ deb http://beta.unlimapps.com/ ./
 deb http://betarepo.com/fontme/ ./
 deb http://betarepo.groovycarrot.co.uk ./
 deb http://chewitt.me/repo/ ./
-deb http://cokepokes.myrepospace.com/ ./
+deb http://cokepokes.github.io/ ./
 deb http://cydia.angelxwind.net/ ./
 deb http://cydia.clezz.com/  ./
 deb http://cydia.dtathemes.com/repo/ ./
@@ -23,7 +23,6 @@ deb http://cydia.grimore.org/ ./
 deb http://cydia.hiraku.tw/ ./
 deb http://cydia.ianburns.co/ ./
 deb http://cydia.ichitaso.com/ ./
-deb http://cydia.itaysoft.com/ ./
 deb http://cydia.jerryen.com/ ./
 deb http://cydia.joedj.net/ ./
 deb http://cydia.myrepospace.com/Basic/ ./
@@ -33,7 +32,6 @@ deb http://cydia.myrepospace.com/MattCMultimedia/ ./
 deb http://cydia.myrepospace.com/SkumarSpace/ ./
 deb http://cydia.myrepospace.com/Skylerk99/ ./
 deb http://cydia.myrepospace.com/blubbll/ ./
-deb http://cydia.myrepospace.com/cokepokes/ ./
 deb http://cydia.myrepospace.com/d4rkh0rse/  ./
 deb http://cydia.myrepospace.com/finehacks/ ./
 deb http://cydia.myrepospace.com/iAppletweak3r/ ./
@@ -56,7 +54,6 @@ deb http://cydia.rob311.com/repo/ ./
 deb http://danieltaylor.tk/repo/  ./
 deb http://danyl.net/repo/ ./
 deb http://elijahandandrew.com/repo/ ./
-deb http://exile90software.com/cydia/ ./
 deb http://exile90software.com/cydia/beta/ ./
 deb http://extigy.github.io/repo/ ./
 deb http://filippobiga.com/repo/ ./
@@ -145,3 +142,5 @@ deb https://yazeedot.github.io/ ./
 #deb http://repo.winneonsword.net ./
 #deb http://repocydia.com/ ./
 #deb http://weamdev.org/repo/ ./
+#deb http://exile90software.com/cydia/ ./
+#deb http://cydia.itaysoft.com/ ./

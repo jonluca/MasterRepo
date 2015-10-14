@@ -108,21 +108,21 @@ deb http://tigisoftware.com/cydia/ ./
 deb http://typ0s2d10.appspot.com/repo/ ./
 deb http://wynd07.appspot.com/r7/ ./
 deb http://yangapp.googlecode.com/svn/ ./
-deb https://arcetera.github.io/ ./
-deb https://chickenmatt5.github.io/repo/ ./
-deb https://citrusui.me/repo/ ./
-deb https://coolstar.org/publicrepo/ ./
-deb https://cydia.hbang.ws/ ./
-deb https://cydia.syrexide.com/ ./
-deb https://greenydev.github.io/repo/ ./
-deb https://s1ris.github.io/repo/ ./
+deb http://arcetera.github.io/ ./
+deb http://chickenmatt5.github.io/repo/ ./
+deb http://citrusui.me/repo/ ./
+deb http://coolstar.org/publicrepo/ ./
+deb http://cydia.hbang.ws/ ./
+deb http://cydia.syrexide.com/ ./
+deb http://greenydev.github.io/repo/ ./
+deb http://s1ris.github.io/repo/ ./
 deb http://cydia.taskinoz.com/ ./
 deb http://repo.peng-u-in.de/ ./
 deb http://repo.rpdev.info/ ./
-deb https://s0mecoder.github.io/repo/ ./
+deb http://s0mecoder.github.io/repo/ ./
 deb http://seatanners.github.io/repo/ ./
-deb https://repo.tm3dev.com/ ./
-deb https://yazeedot.github.io/ ./
+deb http://repo.tm3dev.com/ ./
+deb http://yazeedot.github.io/ ./
 
 #Sources that have been commented out (#) are offline but might come 
 #back one day - they mightve been popular a few years ago or had 

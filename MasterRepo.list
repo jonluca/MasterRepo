@@ -70,8 +70,6 @@ deb http://justgetflux.com/cydia/ ./
 deb http://kuaidial.googlecode.com/svn/deb/ ./
 deb http://limneos.net/repo/ ./
 deb http://miroppb.com/repo/ ./
-deb http://mirrors.kodi.tv/apt/ios/ ./
-deb http://mirrors.xbmc.org/apt/ios/ ./
 deb http://moshed.yourepo.com/ ./
 deb http://n00neimp0rtant.com/repo/ ./
 deb http://nix.howett.net/theos/ ./
@@ -95,7 +93,7 @@ deb http://repo.nesolabs.de/ ./
 deb http://repo.pnre.co/ ./
 deb http://repo.spydar007.com/ ./
 deb http://repo.thireus.com/ ./
-deb http://repo.tm3dev.com/ ./
+deb https://repo.tm3dev.com/ ./
 deb http://repo.tsunderedev.moe/ ./
 deb http://repo.tylercasson.com/ ./
 deb http://repo.winneon.moe/ ./

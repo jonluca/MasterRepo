@@ -121,6 +121,7 @@ deb http://s0mecoder.github.io/repo/ ./
 deb http://seatanners.github.io/repo/ ./
 deb http://repo.tm3dev.com/ ./
 deb http://yazeedot.github.io/ ./
+deb http://cydia.jakes.site/ ./
 
 #Sources that have been commented out (#) are offline but might come 
 #back one day - they mightve been popular a few years ago or had 

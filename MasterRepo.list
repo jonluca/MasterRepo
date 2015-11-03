@@ -84,7 +84,7 @@ deb http://repo.alexzielenski.com/ ./
 deb http://repo.atwiiks.com/ ./
 deb http://repo.bd452.com/ ./
 deb http://repo.cpdigitaldarkroom.com/ ./
-deb http://repo.cydro.us/ ./
+deb https://repo.aditkamath.com/ ./
 deb http://repo.fortysixandtwo.com/ ./
 deb http://repo.iphonews.ro/ ./
 deb http://repo.maxkatzmann.us/ ./
@@ -119,7 +119,6 @@ deb http://repo.peng-u-in.de/ ./
 deb http://repo.rpdev.info/ ./
 deb http://s0mecoder.github.io/repo/ ./
 deb http://seatanners.github.io/repo/ ./
-deb http://repo.tm3dev.com/ ./
 deb http://yazeedot.github.io/ ./
 
 #Sources that have been commented out (#) are offline but might come 
@@ -142,3 +141,4 @@ deb http://yazeedot.github.io/ ./
 #deb http://weamdev.org/repo/ ./
 #deb http://exile90software.com/cydia/ ./
 #deb http://cydia.itaysoft.com/ ./
+#deb http://repo.tm3dev.com/ ./

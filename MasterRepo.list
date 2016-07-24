@@ -38,7 +38,6 @@ deb http://ftp.sident.net/cydia-beta/ ./
 deb http://getdelta.co/ ./
 deb http://gmoran.me/repo/ ./
 deb http://hitoriblog.com/apt/ ./
-deb http://iPHONiX.myrepospace.com/ ./
 deb http://insanj.com/repo/ ./
 deb http://ios-webstack.tk/cydia/ ./
 deb http://j-gessner.de/repo/ ./
@@ -143,3 +142,4 @@ deb http://cydia.jakes.site/ ./
 #deb http://cydia.myrepospace.com/ruberto/ ./
 #deb http://cydia.myrepospace.com/shivadoc/ ./
 #deb http://cydia.myrepospace.com/tigerban/ ./
+#deb http://iPHONiX.myrepospace.com/ ./

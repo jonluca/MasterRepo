@@ -21,7 +21,6 @@ deb http://cydia.bolencki13.com/repo/ ./
 deb http://cydia.clezz.com/  ./
 deb http://cydia.dtathemes.com/repo/ ./
 deb http://cydia.evilpengu.in/  ./
-deb http://cydia.expetelek.com/ ./
 deb http://cydia.grimore.org/ ./
 deb http://cydia.hbang.ws/ ./
 deb http://cydia.hiraku.tw/ ./

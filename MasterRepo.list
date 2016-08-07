@@ -97,6 +97,13 @@ deb http://s0mecoder.github.io/repo/ ./
 deb http://seatanners.github.io/repo/ ./
 deb http://yazeedot.github.io/ ./
 deb http://cydia.jakes.site/ ./
+deb http://reddestdream.github.io/ ./
+deb http://repo.ziph0n.com/ ./
+deb http://www.williamlcobb.com/repo/ ./
+deb http://cydia.bolencki13.com/repo/ ./
+deb http://skylerk99.github.io/ ./
+deb http://repo.ioscreatix.com/ ./
+deb http://ib-soft.net/cydia/ ./
 
 #Sources that have been commented out (#) are offline but might come 
 #back one day - they mightve been popular a few years ago or had 
@@ -104,8 +111,6 @@ deb http://cydia.jakes.site/ ./
 
 #deb http://andrew-abosh.com/repo/ ./
 #deb http://apt.sapien.me/ ./
-#deb http://cydia.myrepospace.com/openro0t/ ./
-#deb http://cydia.myrepospace.com/PoomSmart/ ./
 #deb http://cydia.sticktron.com/ ./
 #deb http://devbug.me/apt ./
 #deb http://maple.pe.hu/ ./
@@ -119,27 +124,4 @@ deb http://cydia.jakes.site/ ./
 #deb http://exile90software.com/cydia/ ./
 #deb http://cydia.itaysoft.com/ ./
 #deb http://repo.tm3dev.com/ ./
-#deb http://cydia.myrepospace.com/Basic/ ./
-#deb http://cydia.myrepospace.com/DomT4/ ./
-#deb http://cydia.myrepospace.com/ImLemonPartying/ ./
-#deb http://cydia.myrepospace.com/MattCMultimedia/ ./
-#deb http://cydia.myrepospace.com/SkumarSpace/ ./
-#deb http://cydia.myrepospace.com/Skylerk99/ ./
-#deb http://cydia.myrepospace.com/blubbll/ ./
-#deb http://cydia.myrepospace.com/d4rkh0rse/  ./
-#deb http://cydia.myrepospace.com/finehacks/ ./
-#deb http://cydia.myrepospace.com/iAppletweak3r/ ./
-#deb http://cydia.myrepospace.com/iLEXiNFO/ ./
-#deb http://cydia.myrepospace.com/ieatgiraffe/ ./
-#deb http://cydia.myrepospace.com/ip4ever/ ./
-#deb http://cydia.myrepospace.com/jontelang/ ./
-#deb http://cydia.myrepospace.com/jormy/ ./
-#deb http://cydia.myrepospace.com/kohidevice/ ./
-#deb http://cydia.myrepospace.com/kshizoku/ ./
-#deb http://cydia.myrepospace.com/mlnlover11/ ./
-#deb http://cydia.myrepospace.com/reeiiko/ ./
-#deb http://cydia.myrepospace.com/rj619/ ./
-#deb http://cydia.myrepospace.com/ruberto/ ./
-#deb http://cydia.myrepospace.com/shivadoc/ ./
-#deb http://cydia.myrepospace.com/tigerban/ ./
-#deb http://iPHONiX.myrepospace.com/ ./
+

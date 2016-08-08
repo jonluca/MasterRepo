@@ -8,6 +8,7 @@ deb http://apt.if0rce.com/ ./
 deb http://apt.mootjeuh.com/ ./
 deb http://apt.pwncenter.com/ ./
 deb http://apt.steverolfe.com/ ./
+deb http://apt.golddavid.com/ ./
 deb http://arcetera.github.io/ ./
 deb http://beta-repo.sassoty.com/ ./
 deb http://beta.unlimapps.com/ ./
@@ -49,6 +50,7 @@ deb http://j-gessner.de/repo/ ./
 deb http://jonlu.ca/repo/ ./
 deb http://justgetflux.com/cydia/ ./
 deb http://limneos.net/repo/ ./
+deb http://load.sh/cydia/ ./
 deb http://miroppb.com/repo/ ./
 deb http://n00neimp0rtant.com/repo/ ./
 deb http://nix.howett.net/theos/ ./

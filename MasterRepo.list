@@ -85,7 +85,6 @@ deb http://s0mecoder.github.io/repo/ ./
 deb http://s1ris.github.io/repo/ ./
 deb http://seatanners.github.io/repo/ ./
 deb http://skylerk99.github.io/ ./
-deb http://system.in-appstore.com/repo/ ./
 deb http://tateu.net/repo/ ./
 deb http://test-cydia.bitesms.com/ ./
 deb http://tigisoftware.com/cydia/ ./

@@ -6,7 +6,6 @@ deb http://4khmeriphone.com/sp/ ./
 deb http://apt.dba-technologies.com/beta/ ./
 deb http://apt.if0rce.com/ ./
 deb http://apt.mootjeuh.com/ ./
-deb http://apt.pwncenter.com/ ./
 deb http://apt.steverolfe.com/ ./
 deb http://apt.golddavid.com/ ./
 deb http://arcetera.github.io/ ./
@@ -35,7 +34,6 @@ deb http://cydia.rob311.com/repo/ ./
 deb http://cydia.taskinoz.com/ ./
 deb http://danieltaylor.tk/repo/  ./
 deb http://danyl.net/repo/ ./
-deb http://elijahandandrew.com/repo/ ./
 deb http://exile90software.com/cydia/beta/ ./
 deb http://extigy.github.io/repo/ ./
 deb http://filippobiga.com/repo/ ./
@@ -51,7 +49,6 @@ deb http://jonlu.ca/repo/ ./
 deb http://justgetflux.com/cydia/ ./
 deb http://limneos.net/repo/ ./
 deb http://load.sh/cydia/ ./
-deb http://miroppb.com/repo/ ./
 deb http://n00neimp0rtant.com/repo/ ./
 deb http://nix.howett.net/theos/ ./
 deb http://noeliel.com/repo/ ./
@@ -65,7 +62,6 @@ deb http://repo.alexzielenski.com/ ./
 deb http://repo.atwiiks.com/ ./
 deb http://repo.bd452.com/ ./
 deb http://repo.cpdigitaldarkroom.com/ ./
-deb http://repo.fortysixandtwo.com/ ./
 deb http://repo.ioscreatix.com/ ./
 deb http://repo.iphonews.ro/ ./
 deb http://repo.natur-kultur.eu ./
@@ -117,3 +113,9 @@ deb https://repo.aditkamath.com/ ./
 #deb http://repocydia.com/ ./
 #deb http://weamdev.org/repo/ ./
 
+#Not Working as of 11/7/2016 
+
+#deb http://apt.pwncenter.com/ ./
+#deb http://elijahandandrew.com/repo/ ./
+#deb http://miroppb.com/repo/ ./
+#deb http://repo.fortysixandtwo.com/ ./

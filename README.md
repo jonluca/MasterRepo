@@ -1,6 +1,6 @@
 # MasterRepo
 
-This is a collection of the most popular and used sources in Cydia as of 8/7/16
+This is a collection of the most popular and used sources in Cydia as of 12/22/16
 
 
 To install, just place MasterRepo.list in /etc/apt/sources.list.d

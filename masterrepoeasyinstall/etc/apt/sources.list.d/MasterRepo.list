@@ -61,7 +61,7 @@ deb http://repo.alexzielenski.com/ ./
 deb http://repo.atwiiks.com/ ./
 deb http://repo.bd452.com/ ./
 deb http://repo.cpdigitaldarkroom.com/ ./
-deb http://repo.ioscreatix.com/ ./
+deb https://repo.ioscreatix.com/ ./
 deb http://repo.iphonews.ro/ ./
 deb http://repo.natur-kultur.eu ./
 deb http://repo.nesolabs.de/ ./

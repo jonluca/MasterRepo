@@ -17,7 +17,6 @@ deb http://chickenmatt5.github.io/repo/ ./
 deb http://cokepokes.github.io/ ./
 deb http://coolstar.org/publicrepo/ ./
 deb http://cydia.angelxwind.net/ ./
-deb http://cydia.bolencki13.com/repo/ ./
 deb http://cydia.clezz.com/  ./
 deb http://cydia.dtathemes.com/repo/ ./
 deb http://cydia.evilpengu.in/  ./
@@ -119,3 +118,4 @@ deb https://repo.aditkamath.com/ ./
 #deb http://elijahandandrew.com/repo/ ./
 #deb http://miroppb.com/repo/ ./
 #deb http://repo.fortysixandtwo.com/ ./
+#deb http://cydia.bolencki13.com/repo/ ./

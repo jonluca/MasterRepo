@@ -2,19 +2,17 @@
 #Check changelog and update history on github
 # Some of these may be inactive or dead - if so, feel free to message me on reddit and I'll rectify it.
 
-deb http://repo.laughingquoll.net/ ./
 deb http://4khmeriphone.com/sp/ ./
 deb http://alakazard.yourepo.com/ ./
 deb http://apt.dba-technologies.com/beta/ ./
+deb http://apt.golddavid.com/ ./
 deb http://apt.if0rce.com/ ./
 deb http://apt.mootjeuh.com/ ./
 deb http://apt.steverolfe.com/ ./
-deb http://apt.golddavid.com/ ./
 deb http://arcetera.github.io/ ./
 deb http://beta-repo.sassoty.com/ ./
 deb http://beta.unlimapps.com/ ./
 deb http://betarepo.com/fontme/ ./
-deb https://cgm616.me/repo/ ./
 deb http://chewitt.me/repo/ ./
 deb http://chickenmatt5.github.io/repo/ ./
 deb http://cokepokes.github.io/ ./
@@ -47,13 +45,10 @@ deb http://gmoran.me/repo/ ./
 deb http://greenydev.github.io/repo/ ./
 deb http://hitoriblog.com/apt/ ./
 deb http://ib-soft.net/cydia/ ./
-deb https://if0x.github.io/ ./
 deb http://insanj.com/repo/ ./
-deb https://iostonykraft.github.io/ ./
 deb http://j-gessner.de/repo/ ./
 deb http://jonlu.ca/repo/ ./
 deb http://justgetflux.com/cydia/ ./
-deb https://LacertosusRepo.github.io/ ./
 deb http://limneos.net/repo/ ./
 deb http://load.sh/cydia/ ./
 deb http://n00neimp0rtant.com/repo/ ./
@@ -64,14 +59,13 @@ deb http://pw5a29.github.io/ ./
 deb http://rcrepo.com/ ./
 deb http://reddestdream.github.io/ ./
 deb http://redzrex.github.io/ ./
-deb https://repo.aditkamath.com/ ./
 deb http://repo.aleksanderazizi.com/ ./
 deb http://repo.alexzielenski.com/ ./
 deb http://repo.atwiiks.com/ ./
 deb http://repo.bd452.com/ ./
 deb http://repo.cpdigitaldarkroom.com/ ./
-deb https://repo.ioscreatix.com/ ./
 deb http://repo.iphonews.ro/ ./
+deb http://repo.laughingquoll.net/ ./
 deb http://repo.natur-kultur.eu ./
 deb http://repo.nesolabs.de/ ./
 deb http://repo.peng-u-in.de/ ./
@@ -85,7 +79,6 @@ deb http://repo.winneon.moe/ ./
 deb http://repo.yllier.net/ ./
 deb http://repo.ziph0n.com/ ./
 deb http://rpetri.ch/repo/ ./
-deb https://ryleyangus.com/repo/ ./
 deb http://s0mecoder.github.io/repo/ ./
 deb http://s1ris.github.io/repo/ ./
 deb http://seatanners.github.io/repo/ ./
@@ -94,11 +87,19 @@ deb http://starwarsfan2099.x10host.com/repo/ ./
 deb http://tateu.net/repo/ ./
 deb http://test-cydia.bitesms.com/ ./
 deb http://tigisoftware.com/cydia/ ./
-deb https://tdmd.github.io/ ./
 deb http://virenmohindra.github.io/ ./
 deb http://www.williamlcobb.com/repo/ ./
 deb http://wynd07.appspot.com/r7/ ./
 deb http://yazeedot.github.io/ ./
+deb https://cgm616.me/repo/ ./
+deb https://cj81499.github.io/ ./
+deb https://if0x.github.io/ ./
+deb https://iostonykraft.github.io/ ./
+deb https://LacertosusRepo.github.io/ ./
+deb https://repo.aditkamath.com/ ./
+deb https://repo.ioscreatix.com/ ./
+deb https://ryleyangus.com/repo/ ./
+deb https://tdmd.github.io/ ./
 
 #Sources that have been commented out (#) are offline but might come 
 #back one day - they mightve been popular a few years ago or had 

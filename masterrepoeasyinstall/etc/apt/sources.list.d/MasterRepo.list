@@ -43,6 +43,7 @@ deb http://greenydev.github.io/repo/ ./
 deb http://hitoriblog.com/apt/ ./
 deb http://ib-soft.net/cydia/ ./
 deb http://insanj.com/repo/ ./
+deb https://iostonykraft.github.io/ ./
 deb http://j-gessner.de/repo/ ./
 deb http://jonlu.ca/repo/ ./
 deb http://justgetflux.com/cydia/ ./

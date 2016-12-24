@@ -96,7 +96,6 @@ deb http://test-cydia.bitesms.com/ ./
 deb http://tigisoftware.com/cydia/ ./
 deb https://tdmd.github.io/ ./
 deb http://virenmohindra.github.io/ ./
-deb http://typ0s2d10.appspot.com/repo/ ./
 deb http://www.williamlcobb.com/repo/ ./
 deb http://wynd07.appspot.com/r7/ ./
 deb http://yazeedot.github.io/ ./
@@ -123,6 +122,7 @@ deb http://yazeedot.github.io/ ./
 #deb http://repo.winneonsword.net ./
 #deb http://repocydia.com/ ./
 #deb http://weamdev.org/repo/ ./
+#deb http://typ0s2d10.appspot.com/repo/ ./
 
 #Not Working as of 12/23/2016 
 

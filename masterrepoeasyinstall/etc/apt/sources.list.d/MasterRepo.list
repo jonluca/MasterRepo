@@ -2,6 +2,7 @@
 #Check changelog and update history on github
 # Some of these may be inactive or dead - if so, feel free to message me on reddit and I'll rectify it.
 
+deb http://repo.laughingquoll.net/ ./
 deb http://4khmeriphone.com/sp/ ./
 deb http://alakazard.yourepo.com/ ./
 deb http://apt.dba-technologies.com/beta/ ./

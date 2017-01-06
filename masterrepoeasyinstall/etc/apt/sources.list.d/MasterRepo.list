@@ -61,6 +61,7 @@ deb http://redzrex.github.io/ ./
 deb http://repo.aleksanderazizi.com/ ./
 deb http://repo.alexzielenski.com/ ./
 deb http://repo.atwiiks.com/ ./
+deb http://repo.avalon-studios.de/ ./
 deb http://repo.bd452.com/ ./
 deb http://repo.cpdigitaldarkroom.com/ ./
 deb http://repo.iphonews.ro/ ./

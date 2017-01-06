@@ -30,7 +30,6 @@ deb http://cydia.jakes.site/ ./
 deb http://cydia.jerryen.com/ ./
 deb http://cydia.joedj.net/ ./
 deb http://cydia.r333d.com/ ./
-deb http://cydia.radare.org/ ./
 deb http://cydia.rob311.com/repo/ ./
 deb http://cydia.taskinoz.com/ ./
 deb http://danieltaylor.tk/repo/  ./
@@ -100,6 +99,9 @@ deb https://repo.aditkamath.com/ ./
 deb https://repo.ioscreatix.com/ ./
 deb https://ryleyangus.com/repo/ ./
 deb https://tdmd.github.io/ ./
+
+#Distribute broken packages. Can be added back when they are fixed. But at the moment it is dangerous
+#deb http://cydia.radare.org/ ./
 
 #Sources that have been commented out (#) are offline but might come 
 #back one day - they mightve been popular a few years ago or had 

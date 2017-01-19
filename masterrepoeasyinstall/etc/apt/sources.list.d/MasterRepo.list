@@ -16,6 +16,7 @@ deb http://betarepo.com/fontme/ ./
 deb http://chewitt.me/repo/ ./
 deb http://chickenmatt5.github.io/repo/ ./
 deb http://cokepokes.github.io/ ./
+deb http://coolbooter.com ./
 deb http://coolstar.org/publicrepo/ ./
 deb http://cydia.angelxwind.net/ ./
 deb http://cydia.clezz.com/  ./

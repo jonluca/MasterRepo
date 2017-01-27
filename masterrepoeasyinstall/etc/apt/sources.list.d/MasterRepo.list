@@ -14,7 +14,6 @@ deb http://beta-repo.sassoty.com/ ./
 deb http://beta.unlimapps.com/ ./
 deb http://betarepo.com/fontme/ ./
 deb http://chewitt.me/repo/ ./
-deb http://chickenmatt5.github.io/repo/ ./
 deb http://cokepokes.github.io/ ./
 deb http://coolstar.org/publicrepo/ ./
 deb http://cydia.angelxwind.net/ ./
@@ -86,7 +85,6 @@ deb http://skylerk99.github.io/ ./
 deb http://starwarsfan2099.x10host.com/repo/ ./
 deb http://tateu.net/repo/ ./
 deb http://test-cydia.bitesms.com/ ./
-deb http://tigisoftware.com/cydia/ ./
 deb http://virenmohindra.github.io/ ./
 deb http://www.williamlcobb.com/repo/ ./
 deb http://wynd07.appspot.com/r7/ ./

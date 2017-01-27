@@ -15,6 +15,7 @@ deb http://beta.unlimapps.com/ ./
 deb http://betarepo.com/fontme/ ./
 deb http://chewitt.me/repo/ ./
 deb http://cokepokes.github.io/ ./
+deb http://coolbooter.com ./
 deb http://coolstar.org/publicrepo/ ./
 deb http://cydia.angelxwind.net/ ./
 deb http://cydia.clezz.com/  ./

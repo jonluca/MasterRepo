@@ -2,6 +2,7 @@
 #Check changelog and update history on github
 # Some of these may be inactive or dead - if so, feel free to message me on reddit and I'll rectify it.
 
+
 deb http://4khmeriphone.com/sp/ ./
 deb http://alakazard.yourepo.com/ ./
 deb http://apt.dba-technologies.com/beta/ ./
@@ -12,7 +13,6 @@ deb http://apt.steverolfe.com/ ./
 deb http://arcetera.github.io/ ./
 deb http://beta-repo.sassoty.com/ ./
 deb http://beta.unlimapps.com/ ./
-deb http://betarepo.com/fontme/ ./
 deb http://chewitt.me/repo/ ./
 deb http://cokepokes.github.io/ ./
 deb http://coolbooter.com ./
@@ -21,9 +21,7 @@ deb http://cydia.angelxwind.net/ ./
 deb http://cydia.clezz.com/  ./
 deb http://cydia.dtathemes.com/repo/ ./
 deb http://cydia.evilpengu.in/  ./
-deb http://cydia.grimore.org/ ./
 deb http://cydia.hbang.ws/ ./
-deb http://cydia.hiraku.tw/ ./
 deb http://cydia.ianburns.co/ ./
 deb http://cydia.ichitaso.com/ ./
 deb http://cydia.jakes.site/ ./
@@ -41,7 +39,6 @@ deb http://filippobiga.com/repo/ ./
 deb http://ftp.sident.net/cydia-beta/ ./
 deb http://getdelta.co/ ./
 deb http://gmoran.me/repo/ ./
-deb http://greenydev.github.io/repo/ ./
 deb http://hitoriblog.com/apt/ ./
 deb http://ib-soft.net/cydia/ ./
 deb http://insanj.com/repo/ ./
@@ -49,20 +46,16 @@ deb http://j-gessner.de/repo/ ./
 deb http://jonlu.ca/repo/ ./
 deb http://justgetflux.com/cydia/ ./
 deb http://limneos.net/repo/ ./
-deb http://load.sh/cydia/ ./
 deb http://n00neimp0rtant.com/repo/ ./
 deb http://nix.howett.net/theos/ ./
 deb http://noeliel.com/repo/ ./
 deb http://poomsmart.github.io/repo/ ./
-deb http://pw5a29.github.io/ ./
-deb http://rcrepo.com/ ./
 deb http://reddestdream.github.io/ ./
 deb http://redzrex.github.io/ ./
 deb http://repo.aleksanderazizi.com/ ./
 deb http://repo.alexzielenski.com/ ./
 deb http://repo.atwiiks.com/ ./
 deb http://repo.avalon-studios.de/ ./
-deb http://repo.bd452.com/ ./
 deb http://repo.cpdigitaldarkroom.com/ ./
 deb http://repo.iphonews.ro/ ./
 deb http://repo.laughingquoll.net/ ./
@@ -89,7 +82,6 @@ deb http://test-cydia.bitesms.com/ ./
 deb http://virenmohindra.github.io/ ./
 deb http://www.williamlcobb.com/repo/ ./
 deb http://wynd07.appspot.com/r7/ ./
-deb http://yazeedot.github.io/ ./
 deb https://cgm616.me/repo/ ./
 deb https://cj81499.github.io/ ./
 deb https://if0x.github.io/ ./
@@ -99,6 +91,17 @@ deb https://repo.aditkamath.com/ ./
 deb https://repo.ioscreatix.com/ ./
 deb https://ryleyangus.com/repo/ ./
 deb https://tdmd.github.io/ ./
+
+#Temporarily not working in iOS 10.2
+#deb http://betarepo.com/fontme/ ./
+#deb http://cydia.grimore.org/ ./
+#deb http://cydia.hiraku.tw/ ./
+#deb http://greenydev.github.io/repo/ ./
+#deb http://load.sh/cydia/ ./
+#deb http://pw5a29.github.io/ ./
+#deb http://rcrepo.com/ ./
+#deb http://repo.bd452.com/ ./
+#deb http://yazeedot.github.io/ ./
 
 #Distribute broken packages. Can be added back when they are fixed. But at the moment it is dangerous
 #deb http://cydia.radare.org/ ./

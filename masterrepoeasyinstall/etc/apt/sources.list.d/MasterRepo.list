@@ -85,7 +85,6 @@ deb http://wynd07.appspot.com/r7/ ./
 deb https://cgm616.me/repo/ ./
 deb https://cj81499.github.io/ ./
 deb https://if0x.github.io/ ./
-deb https://iostonykraft.github.io/ ./
 deb https://LacertosusRepo.github.io/ ./
 deb https://repo.aditkamath.com/ ./
 deb https://repo.ioscreatix.com/ ./

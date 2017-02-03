@@ -1,6 +1,10 @@
 # MasterRepo
 
-This is a collection of the most popular and used sources in Cydia as of 12/22/16
+##Please note - on iOS 10, you might receive error 24: too many files
+
+If you receive this error, I'd recommend selectively going through the list and remove smaller repos or repos you don't need. We're still waiting on a reply from saurik on the issue, and whether it's a new OS limitation or whether it's on Cydia's end. 
+
+This is a collection of the most popular and used sources in Cydia as of 2/2/2017
 
 In December 2016, I migrated the MasterRepo to a package on my repo (http://jonlu.ca/repo). The easiest way to install (and stay up to date) is to install that package.
 

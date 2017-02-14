@@ -47,7 +47,6 @@ deb https://jonlu.ca/repo/ ./
 deb https://justgetflux.com/cydia/ ./
 deb http://limneos.net/repo/ ./
 deb http://n00neimp0rtant.com/repo/ ./
-deb http://nix.howett.net/theos/ ./
 deb https://noeliel.com/repo/ ./
 deb https://poomsmart.github.io/repo/ ./
 deb https://reddestdream.github.io/ ./

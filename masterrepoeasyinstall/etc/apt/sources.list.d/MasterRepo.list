@@ -5,6 +5,7 @@
 
 deb http://4khmeriphone.com/sp/ ./
 deb http://alakazard.yourepo.com/ ./
+deb https://anemone-fonts.us/ ./
 deb http://apt.dba-technologies.com/beta/ ./
 deb http://apt.golddavid.com/ ./
 deb http://apt.if0rce.com/ ./

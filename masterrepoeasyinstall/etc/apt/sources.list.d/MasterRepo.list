@@ -66,6 +66,7 @@ deb http://repo.pnre.co/ ./
 deb http://repo.rpdev.info/ ./
 deb https://repo.spydar007.com/ ./
 deb http://repo.thireus.com/ ./
+deb http://repo.tm3dev.com/ ./
 deb http://repo.tsunderedev.moe/ ./
 deb https://repo.tylercasson.com/ ./
 deb https://repo.winneon.moe/ ./
@@ -123,7 +124,6 @@ deb https://tdmd.github.io/ ./
 #deb http://repo.aehmlo.com/ ./
 #deb http://repo.andreaslarsen.dk/ ./
 #deb http://repo.compatic.us/ ./
-#deb http://repo.tm3dev.com/ ./
 #deb http://repo.winneonsword.net/ ./
 #deb https://repocydia.com/ ./
 #deb http://weamdev.org/repo/ ./

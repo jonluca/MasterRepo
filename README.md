@@ -38,6 +38,8 @@ There are a couple ways of doing it - sources installed through MasterRepo aren'
 
 The other is a bit longer:
 
-1. Look at the errors and copy all the line numbers with errors next to ***cydia.list***. 
+1. Look at the errors and copy all the line numbers with errors next to ***cydia.list***. It should look like this:
+
+<img src="http://i.imgur.com/B97ffgH.png" />
 
 Any other questions should be directed to /u/JonLuca on reddit, or through email at jdecaro@usc.edu

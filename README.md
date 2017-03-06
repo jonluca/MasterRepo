@@ -1,19 +1,43 @@
 # MasterRepo
 
-##Please note - on iOS 10, you might receive error 24: too many files
-
-If you receive this error, I'd recommend selectively going through the list and remove smaller repos or repos you don't need. We're still waiting on a reply from saurik on the issue, and whether it's a new OS limitation or whether it's on Cydia's end. 
-
-This is a collection of the most popular and used sources in Cydia as of 2/2/2017
+## About
+This is a collection of the most popular and used sources in Cydia as of 3/6/2017
 
 In December 2016, I migrated the MasterRepo to a package on my repo (http://jonlu.ca/repo). The easiest way to install (and stay up to date) is to install that package.
 
-If you would still like to do it manually, navigate to masterrepoeasyinstall/etc/apt/sources.list.d/MasterRepo.list and grab it from there.
 
-To install, just place MasterRepo.list in /etc/apt/sources.list.d
+## Installation
+
+### Preferred
+- Add http://jonlu.ca/repo/
+- Add MasterRepoEasyInstall
+- Close and reopen Cydia
+- Open Cydia, go to Sources, click Edit, remove http://jonlu.ca/repo/ (Don't worry, it's to prevent errors because it is included in MasterRepo.list)
+
+### Manual
+
+- Navigate to masterrepoeasyinstall/etc/apt/sources.list.d/MasterRepo.list
+- Save that file and place it in /etc/apt/sources.list.d/
+
+## Common Problems
 
 If you encounter any problems, make sure permissions are set to 0655.
 
-The latest release it is known to work on is Cydia 1.1.27, iOS 9.3.3 - however, this should work on virtually any release of Cydia, from iOS 2 to iOS 10. You may encounter limit errors in older versions of Cydia (which were limited to 2^16, or 65536 indivdual packages). Unless Cydia changes the way it handles sources and list files, this file should not cause any problems.
+
+### Error 24: too many files open
+
+If you receive this error, I'd recommend selectively going through the list and remove smaller repos or repos you don't need. We're still waiting on a reply from saurik on the issue, and whether it's a new OS limitation or whether it's on Cydia's end. 
+
+### Duplicate source entries (MasterRepo.list:# and cydia.list:#)
+
+This occurs when you have the same repo included in the MasterRepo as well as installed manually.
+
+The easiest way to fix this is to remove any repos you've added manually that are included in the MasterRepo. 
+
+There are a couple ways of doing it - sources installed through MasterRepo aren't manually removable, so you can look at masterrepoeasyinstall/etc/apt/sources.list.d/MasterRepo.list and compare it to whats removable on your Sources list.
+
+The other is a bit longer:
+
+1. Look at the errors and copy all the line numbers with errors next to ***cydia.list***. 
 
 Any other questions should be directed to /u/JonLuca on reddit, or through email at jdecaro@usc.edu

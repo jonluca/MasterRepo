@@ -44,7 +44,7 @@ deb http://hitoriblog.com/apt/ ./
 deb https://ib-soft.net/cydia/ ./
 deb http://insanj.com/repo/ ./
 deb https://j-gessner.de/repo/ ./
-deb https://jonlu.ca/repo/ ./
+deb https://jonluca.me/repo/ ./
 deb https://justgetflux.com/cydia/ ./
 deb http://limneos.net/repo/ ./
 deb http://n00neimp0rtant.com/repo/ ./

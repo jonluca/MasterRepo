@@ -27,7 +27,7 @@ deb https://cydia.ianburns.co/ ./
 deb https://cydia.ichitaso.com/ ./
 deb https://cydia.jakes.site/ ./
 deb http://cydia.jerryen.com/ ./
-deb https://cydia.joedj.net/ ./
+deb http://cydia.joedj.net/ ./
 deb http://cydia.r333d.com/ ./
 deb http://cydia.rob311.com/repo/ ./
 deb http://cydia.taskinoz.com/ ./
@@ -47,7 +47,6 @@ deb https://j-gessner.de/repo/ ./
 deb https://jonluca.me/repo/ ./
 deb https://justgetflux.com/cydia/ ./
 deb http://limneos.net/repo/ ./
-deb http://n00neimp0rtant.com/repo/ ./
 deb https://noeliel.com/repo/ ./
 deb https://poomsmart.github.io/repo/ ./
 deb https://reddestdream.github.io/ ./
@@ -71,7 +70,7 @@ deb http://repo.tsunderedev.moe/ ./
 deb https://repo.tylercasson.com/ ./
 deb https://repo.winneon.moe/ ./
 deb http://repo.yllier.net/ ./
-deb https://repo.ziph0n.com/ ./
+deb http://repo.ziph0n.com/ ./
 deb https://rpetri.ch/repo/ ./
 deb https://s0mecoder.github.io/repo/ ./
 deb https://s1ris.github.io/repo/ ./
@@ -81,7 +80,6 @@ deb http://starwarsfan2099.x10host.com/repo/ ./
 deb http://tateu.net/repo/ ./
 deb http://test-cydia.bitesms.com/ ./
 deb https://virenmohindra.github.io/ ./
-deb https://www.williamlcobb.com/repo/ ./
 deb https://wynd07.appspot.com/r7/ ./
 deb https://cgm616.me/repo/ ./
 deb https://cj81499.github.io/ ./

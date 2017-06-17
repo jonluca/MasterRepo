@@ -12,7 +12,6 @@ deb http://apt.if0rce.com/ ./
 deb http://apt.mootjeuh.com/ ./
 deb https://apt.steverolfe.com/ ./
 deb https://arcetera.github.io/ ./
-deb http://beta-repo.sassoty.com/ ./
 deb https://beta.unlimapps.com/ ./
 deb http://chewitt.me/repo/ ./
 deb https://cokepokes.github.io/ ./
@@ -27,7 +26,6 @@ deb https://cydia.ianburns.co/ ./
 deb https://cydia.ichitaso.com/ ./
 deb https://cydia.jakes.site/ ./
 deb http://cydia.jerryen.com/ ./
-deb http://cydia.joedj.net/ ./
 deb http://cydia.r333d.com/ ./
 deb http://cydia.rob311.com/repo/ ./
 deb http://cydia.taskinoz.com/ ./
@@ -66,7 +64,6 @@ deb http://repo.pnre.co/ ./
 deb http://repo.rpdev.info/ ./
 deb https://repo.spydar007.com/ ./
 deb http://repo.thireus.com/ ./
-deb http://repo.tm3dev.com/ ./
 deb http://repo.tsunderedev.moe/ ./
 deb https://repo.tylercasson.com/ ./
 deb https://repo.winneon.moe/ ./

@@ -116,7 +116,6 @@ deb https://tdmd.github.io/ ./
 #deb https://exile90software.com/cydia/ ./
 #deb http://ios-webstack.tk/cydia/ ./
 #deb http://maple.pe.hu/ ./
-#deb http://parrotgeek.net/repo/ ./
 #deb http://repo.aehmlo.com/ ./
 #deb http://repo.andreaslarsen.dk/ ./
 #deb http://repo.compatic.us/ ./

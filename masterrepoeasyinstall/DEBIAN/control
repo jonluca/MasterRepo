@@ -1,7 +1,7 @@
 Package: com.jonluca.masterrepoeasyinstall
 Name: MasterRepoEasyInstall
 Depends: 
-Version: 2.2
+Version: 2.3
 Architecture: iphoneos-arm
 Description: Collection of popular repositories
 Maintainer: JonLuca De Caro

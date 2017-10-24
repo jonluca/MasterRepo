@@ -5,7 +5,6 @@
 
 deb http://4khmeriphone.com/sp/ ./
 deb http://alakazard.yourepo.com/ ./
-deb https://anemone-fonts.us/ ./
 deb http://apt.dba-technologies.com/beta/ ./
 deb http://apt.golddavid.com/ ./
 deb http://apt.if0rce.com/ ./
@@ -89,6 +88,7 @@ deb https://ryleyangus.com/repo/ ./
 deb https://tdmd.github.io/ ./
 
 #Temporarily not working in iOS 10.2
+deb https://anemone-fonts.mwoolweaver.us/ ./ # Works on iOS 9 and below
 #deb http://betarepo.com/fontme/ ./
 #deb http://cydia.grimore.org/ ./
 #deb https://cydia.hiraku.tw/ ./

@@ -87,6 +87,8 @@ deb https://repo.aditkamath.com/ ./
 deb https://repo.ioscreatix.com/ ./
 deb https://ryleyangus.com/repo/ ./
 deb https://tdmd.github.io/ ./
+deb http://pwn20wnd.com/repo/ ./
+deb http://repo.incendo.ws/ ./
 
 #Temporarily not working in iOS 10.2
 #deb http://betarepo.com/fontme/ ./

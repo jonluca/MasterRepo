@@ -3,8 +3,6 @@
 # Some of these may be inactive or dead - if so, feel free to message me on reddit and I'll rectify it.
 
 
-deb http://4khmeriphone.com/sp/ ./
-deb http://alakazard.yourepo.com/ ./
 deb http://apt.dba-technologies.com/beta/ ./
 deb http://apt.golddavid.com/ ./
 deb http://apt.if0rce.com/ ./
@@ -28,9 +26,7 @@ deb http://cydia.jerryen.com/ ./
 deb http://cydia.r333d.com/ ./
 deb http://cydia.rob311.com/repo/ ./
 deb http://cydia.taskinoz.com/ ./
-deb https://danieltaylor.tk/repo/  ./
 deb http://danyl.net/repo/ ./
-deb https://dylanduff.github.io/repo/ ./
 deb https://exile90software.com/cydia/beta/ ./
 deb https://extigy.github.io/repo/ ./
 deb https://filippobiga.com/repo/ ./
@@ -49,17 +45,12 @@ deb https://noeliel.com/repo/ ./
 deb https://poomsmart.github.io/repo/ ./
 deb https://reddestdream.github.io/ ./
 deb https://redzrex.github.io/ ./
-deb http://repo.aleksanderazizi.com/ ./
 deb http://repo.alexzielenski.com/ ./
-deb https://repo.atwiiks.com/ ./
 deb https://repo.avalon-studios.de/ ./
 deb https://repo.cpdigitaldarkroom.com/ ./
 deb http://repo.iphonews.ro/ ./
 deb http://repo.laughingquoll.net/ ./
-deb http://repo.natur-kultur.eu/ ./
 deb https://repo.nesolabs.de/ ./
-deb http://repo.peng-u-in.de/ ./
-deb http://repo.pnre.co/ ./
 deb http://repo.rpdev.info/ ./
 deb https://repo.spydar007.com/ ./
 deb http://repo.thireus.com/ ./
@@ -67,7 +58,6 @@ deb http://repo.tsunderedev.moe/ ./
 deb https://repo.tylercasson.com/ ./
 deb https://repo.winneon.moe/ ./
 deb http://repo.yllier.net/ ./
-deb http://repo.ziph0n.com/ ./
 deb https://rpetri.ch/repo/ ./
 deb https://s0mecoder.github.io/repo/ ./
 deb https://s1ris.github.io/repo/ ./
@@ -75,10 +65,8 @@ deb https://seatanners.github.io/repo/ ./
 deb https://skylerk99.github.io/ ./
 deb http://starwarsfan2099.x10host.com/repo/ ./
 deb http://tateu.net/repo/ ./
-deb http://test-cydia.bitesms.com/ ./
 deb https://virenmohindra.github.io/ ./
 deb https://wynd07.appspot.com/r7/ ./
-deb https://cgm616.me/repo/ ./
 deb https://cj81499.github.io/ ./
 deb https://if0x.github.io/ ./
 deb https://lacertosusrepo.github.io/ ./
@@ -90,7 +78,7 @@ deb http://pwn20wnd.com/repo/ ./
 deb http://repo.incendo.ws/ ./
 
 #Temporarily not working in iOS 10.2
-deb https://anemone-fonts.mwoolweaver.us/ ./ # Works on iOS 9 and below
+#deb https://anemone-fonts.mwoolweaver.us/ ./ # Works on iOS 9 and below
 #deb http://betarepo.com/fontme/ ./
 #deb http://cydia.grimore.org/ ./
 #deb https://cydia.hiraku.tw/ ./
@@ -100,6 +88,15 @@ deb https://anemone-fonts.mwoolweaver.us/ ./ # Works on iOS 9 and below
 #deb http://rcrepo.com/ ./
 #deb http://repo.bd452.com/ ./
 #deb https://yazeedot.github.io/ ./
+#deb http://repo.ziph0n.com/ ./
+#deb https://repo.atwiiks.com/ ./
+#deb http://test-cydia.bitesms.com/ ./
+#deb http://4khmeriphone.com/sp/ ./
+#deb http://alakazard.yourepo.com/ ./
+#deb http://repo.pnre.co/ ./
+#deb https://danieltaylor.tk/repo/  ./
+#deb https://cgm616.me/repo/ ./
+
 
 #Distribute broken packages. Can be added back when they are fixed. But at the moment it is dangerous
 #deb http://cydia.radare.org/ ./
@@ -125,6 +122,11 @@ deb https://anemone-fonts.mwoolweaver.us/ ./ # Works on iOS 9 and below
 #deb https://repocydia.com/ ./
 #deb http://weamdev.org/repo/ ./
 #deb https://typ0s2d10.appspot.com/repo/ ./
+#deb http://repo.natur-kultur.eu/ ./
+#deb http://repo.aleksanderazizi.com/ ./
+#deb https://dylanduff.github.io/repo/ ./
+#deb http://repo.peng-u-in.de/ ./
+
 
 #Not Working as of 12/23/2016
 

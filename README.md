@@ -1,18 +1,17 @@
 # MasterRepo
 
 ## About
-This is a collection of the most popular and used sources in Cydia as of 3/6/2017
+This is a collection of the most popular and used sources in Cydia as of 3/15/2018
 
-In December 2016, I migrated the MasterRepo to a package on my repo (http://jonlu.ca/repo). The easiest way to install (and stay up to date) is to install that package.
+In December 2016, I migrated the MasterRepo to a package on my repo (https://jonlu.ca/repo). The easiest way to install (and stay up to date) is to install that package.
 
 
 ## Installation
 
 ### Preferred
-- Add http://jonlu.ca/repo/
+- Add https://jonlu.ca/repo/
 - Add MasterRepoEasyInstall
-- Close and reopen Cydia
-- Open Cydia, go to Sources, click Edit, remove http://jonlu.ca/repo/ (It's to prevent errors because it is included in MasterRepo.list)
+- Refresh Sources
 
 ### Manual
 

@@ -10,7 +10,6 @@ deb http://apt.mootjeuh.com/ ./
 deb https://apt.steverolfe.com/ ./
 deb https://arcetera.github.io/ ./
 deb https://beta.unlimapps.com/ ./
-deb http://chewitt.me/repo/ ./
 deb https://cokepokes.github.io/ ./
 deb https://coolbooter.com/ ./
 deb https://coolstar.org/publicrepo/ ./
@@ -29,7 +28,6 @@ deb http://cydia.taskinoz.com/ ./
 deb http://danyl.net/repo/ ./
 deb https://exile90software.com/cydia/beta/ ./
 deb https://extigy.github.io/repo/ ./
-deb https://filippobiga.com/repo/ ./
 deb http://ftp.sident.net/cydia-beta/ ./
 deb http://getdelta.co/ ./
 deb https://gmoran.me/repo/ ./
@@ -37,7 +35,6 @@ deb http://hitoriblog.com/apt/ ./
 deb https://ib-soft.net/cydia/ ./
 deb http://insanj.com/repo/ ./
 deb https://j-gessner.de/repo/ ./
-deb https://jonluca.me/repo/ ./
 deb https://justgetflux.com/cydia/ ./
 deb https://leftyfl1p.github.io/ ./
 deb http://limneos.net/repo/ ./
@@ -71,7 +68,6 @@ deb https://cj81499.github.io/ ./
 deb https://if0x.github.io/ ./
 deb https://lacertosusrepo.github.io/ ./
 deb https://repo.aditkamath.com/ ./
-deb https://repo.ioscreatix.com/ ./
 deb https://ryleyangus.com/repo/ ./
 deb https://tdmd.github.io/ ./
 deb http://pwn20wnd.com/repo/ ./
@@ -96,6 +92,9 @@ deb http://repo.incendo.ws/ ./
 #deb http://repo.pnre.co/ ./
 #deb https://danieltaylor.tk/repo/  ./
 #deb https://cgm616.me/repo/ ./
+#deb https://repo.ioscreatix.com/ ./
+#deb https://filippobiga.com/repo/ ./
+#deb http://chewitt.me/repo/ ./
 
 
 #Distribute broken packages. Can be added back when they are fixed. But at the moment it is dangerous

@@ -2,7 +2,7 @@
 #Check changelog and update history on github
 # Some of these may be inactive or dead - if so, feel free to message me on reddit and I'll rectify it.
 
-
+deb https://apt.neutronfile.com/ ./
 deb http://apt.dba-technologies.com/beta/ ./
 deb http://apt.golddavid.com/ ./
 deb http://apt.if0rce.com/ ./
